@@ -15,10 +15,3 @@ void displayCurrentTime()
     printf("Time:%s.\n", timeString);
     
 }
-
-int main()
-{
-    displayCurrentTime();
-    while(1);
-    return 0;
-}
